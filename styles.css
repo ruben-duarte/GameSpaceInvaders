@@ -1,8 +1,10 @@
 body {
     background-color: cadetblue;
+    text-align: center;
 }
 
 .grid {
+    margin: 20px auto;
     width: 300px;
     height: 300px;
     border: solid 1px  #2E4053;
@@ -16,16 +18,16 @@ body {
 }
 
 .invader {
-    background-color: #2E4053;
+    background-color: #031830;
     border-radius: 10px;
 }
 
 .shooter {
-    background-color: #07609b;
+    background-color: #0e1e7a;
 }
 
 .laser {
-    background-color: #D6EAF8;
+    background-color: #9ff15b;
 }
 
 .boom {
